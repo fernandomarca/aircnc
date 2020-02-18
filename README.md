@@ -1,3 +1,5 @@
+<img src="./img/mobile.png" width="100" /> <img src="./img/desk.png" width="400" />
+
 Aircnc
 ☕ Code and coffee
 GitHub language count Repository size GitHub last commit Repository issues License
